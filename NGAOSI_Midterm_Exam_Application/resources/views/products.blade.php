@@ -8,6 +8,7 @@
 </head>
 <body>
     <div class="container-py">
+        
         <h1>List of Gadgets</h1>
         <ul>
             <li>Apple Vision Pro</li>
